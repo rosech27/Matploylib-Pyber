@@ -1,0 +1,4 @@
+1) Pyber gets most of its revenue from urban regions. 
+2) Average fare is higher in rural areas than urban and subarban areas although the least revenue comes from there. 
+3) There are way more drivers willing to work for Pyber than than there are in suburban and rural areas
+
